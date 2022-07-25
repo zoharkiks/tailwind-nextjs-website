@@ -1,7 +1,5 @@
-// Import all components here for easy exports
+// // Import all components here for easy exports
 
-import  Navbar  from "./Navbar";
-import  Footer  from "./Footer";
-import  Hero  from "./Hero";
+// import  ....  from "....";
 
-export {Navbar, Footer, Hero}
+// export {.....}
