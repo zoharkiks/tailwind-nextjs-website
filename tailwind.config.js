@@ -5,7 +5,14 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      // Using custom fonts
+      // fontFamily: {
+      //   worldwide: ["WorldwideHeadline", "cursive"],
+      //   blooming: ["Blooming Elegant Sans", "cursive"],
+      //   poppins: ["Poppins", 'sans-serif']
+      // },
+    },
   },
   plugins: [],
 }
