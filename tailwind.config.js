@@ -5,6 +5,11 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
+    // Use custom colors
+    // colors: {
+    //   'white': '#ffffff',
+    //   'black':'#000000',
+    // },
     extend: {
       // Using custom fonts
       // fontFamily: {
